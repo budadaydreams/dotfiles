@@ -1,0 +1,6 @@
+2024/08/05-21:05:48.846 609 Reusing MANIFEST /home/guto/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/08/05-21:05:48.872 609 Recovering log #63
+2024/08/05-21:05:48.874 609 Reusing old log /home/guto/.config/discord/Local Storage/leveldb/000063.log 
+2024/08/05-21:46:50.506 60a Level-0 table #67: started
+2024/08/05-21:46:50.510 60a Level-0 table #67: 16913 bytes OK
+2024/08/05-21:46:50.513 60a Delete type=0 #63

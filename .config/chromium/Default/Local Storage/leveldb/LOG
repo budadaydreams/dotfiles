@@ -1,6 +1,0 @@
-2024/08/04-12:31:11.640 4 Reusing MANIFEST /home/guto/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2024/08/04-12:31:11.652 4 Recovering log #32
-2024/08/04-12:31:11.654 4 Reusing old log /home/guto/.config/chromium/Default/Local Storage/leveldb/000032.log 
-2024/08/04-12:48:50.773 4 Level-0 table #36: started
-2024/08/04-12:48:50.783 4 Level-0 table #36: 114876 bytes OK
-2024/08/04-12:48:50.787 4 Delete type=0 #32

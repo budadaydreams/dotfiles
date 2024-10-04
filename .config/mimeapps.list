@@ -1,0 +1,5 @@
+[Default Applications]
+text/plain=kitty.desktop
+
+[Added Associations]
+text/plain=kitty.desktop;
